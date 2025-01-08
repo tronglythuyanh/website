@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <title>Trong_Ly_Resume</title>
-        <link rel="stylesheet" href="../style/style.css">
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <header>
